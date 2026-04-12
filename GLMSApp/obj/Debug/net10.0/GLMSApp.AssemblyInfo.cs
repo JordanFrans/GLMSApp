@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GLMSApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5ba61a736ab9863312e2a35c424da2894b1bfb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GLMSApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GLMSApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
