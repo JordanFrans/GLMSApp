@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  glms-web:
+    build:
+      context: .
+      dockerfile: GLMSApp/Dockerfile
+
+  glms-api:
+    build:
+      context: .
+      dockerfile: GLMSApp.API/Dockerfile
